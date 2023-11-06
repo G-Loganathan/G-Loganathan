@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loganathan</h1>
 <h3 align="center">A passionate frontend developer from Chennai, Tamil Nadu, In</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 👁 I’m looking for job opportunities in **Frontend Development**
+
+- 🌱 I’m currently learning I’m currently learning **MERN Stack**
 
 - 📫 reach me **loganathan2624@gmail.com**
 
