@@ -3,7 +3,7 @@
 
 - 👁 I’m looking for job opportunities in **Frontend Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 specialized in **MERN Stack**
 
 - 📫 reach me **loganathan2624@gmail.com**
 
