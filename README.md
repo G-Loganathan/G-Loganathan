@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loganathan</h1>
-<h3 align="center">A passionate frontend developer from Chennai, Tamil Nadu, In</h3>
+<h3 align="center">A passionate Full Stack developer from Chennai, Tamil Nadu, In</h3>
 
-- 👁 I’m looking for job opportunities in **Frontend Development**
+- 👁 I’m looking for job opportunities in **Full Stack Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I'm a Full-Stack Developer specialized in MERN Stack!
 
 - 📫 reach me **loganathan2624@gmail.com**
 
