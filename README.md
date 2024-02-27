@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loganathan</h1>
 <h3 align="center">A passionate Full Stack Developer from Chennai, Tamil Nadu, In</h3>
 
-- 👁 I’m looking for job opportunities in **Frontend Development**
+- 👁 I’m looking for job opportunities in **Full Stack Development**
 
 - 🌱 specialized in **MERN Stack**
 
