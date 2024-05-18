@@ -67,7 +67,7 @@ I'm a software developer. I like to work with React and Node Js. I love crafting
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 
-# </> Programming Stats
+# <h2></> Programming Stats: </h2>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Loganathan1225?theme=dark&font=ABeeZee)
