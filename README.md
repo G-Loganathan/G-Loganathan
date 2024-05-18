@@ -72,7 +72,7 @@ I'm a software developer. I like to work with React and Node Js. I love crafting
 <div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Loganathan1225?theme=dark&font=ABeeZee)
-<img width=390px align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-loganathan&show_icons=true&locale=en&layout=compact" alt="g-loganathan" /></div>
+<img width=350px align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-loganathan&show_icons=true&locale=en&layout=compact" alt="g-loganathan" /></div>
   
 
 
