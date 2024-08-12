@@ -1,4 +1,5 @@
-# Hey, I'm Loganathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hey, I'm Loganathan 👋 
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> -->
 
 I'm a software developer. I like to work with React and Node Js. I love crafting modern and animation websites.
 
